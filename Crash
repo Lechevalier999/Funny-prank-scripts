@@ -1,7 +1,0 @@
-
-let count = 0;
-while (count < 10000000000000000) {
-  console.log("^%$&^*#$^&W$&W*$^&$*Q*$*&W^*$&W&*&^W$&W*%&^W$W*^%$W&*@#@$#@*$@$*($@%@&)%@$&%@*%&@^%*W*% " + count);
-  count++;
-window.open("https://Youtube.com", "Troll");
-}
